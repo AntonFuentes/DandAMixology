@@ -18,7 +18,7 @@
   <div class="container">
     <div class="navbar-header"
       <a href="logo" class="">
-        <div img="D&a logo" alt=="D&A logo">
+        <div id="D&a logo" alt="D&A logo">
       </a>
      </div>
   </div>
