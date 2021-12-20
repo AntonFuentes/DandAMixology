@@ -9,4 +9,14 @@ font-family: 'Roboto Condensed', sans-serif;
 }
 /** header **/
 #header-nav {
+  background-color: 888;
+  border-radius: 0;
+  border: 0;
+}
+#D&A logo {
+  background-img: url(D&Alogo.png) no repeat;
+  height: 150px;
+  width: 150 px;
+  margin: 10px 15px 10 px 0px;
+  border-radius: 10;
 }
